@@ -1,1 +1,2 @@
 Creating test file for git scm checkout operation
+Testing maven build via jenkins
